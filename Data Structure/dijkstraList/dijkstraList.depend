@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479237033 source:d:\c programs\dijkstralist\main.c
+	<stdio.h>
+	<stdlib.h>
+

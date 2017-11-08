@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479209761 source:d:\c programs\graph\main.c
+	<stdio.h>
+	<stdlib.h>
+

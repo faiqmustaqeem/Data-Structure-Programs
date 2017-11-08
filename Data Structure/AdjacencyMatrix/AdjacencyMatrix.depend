@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1479715601 source:d:\c programs\adjacencymatrix\main.c
+	<stdio.h>
+	<stdlib.h>
+
